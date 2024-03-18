@@ -1,0 +1,672 @@
+[
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "db.config",
+        "description": "db.config",
+        "isExtraImport": true,
+        "detail": "db.config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db.base",
+        "description": "db.base",
+        "isExtraImport": true,
+        "detail": "db.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db.base",
+        "description": "db.base",
+        "isExtraImport": true,
+        "detail": "db.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "db.base",
+        "description": "db.base",
+        "isExtraImport": true,
+        "detail": "db.base",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "db.database",
+        "description": "db.database",
+        "isExtraImport": true,
+        "detail": "db.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "db.database",
+        "description": "db.database",
+        "isExtraImport": true,
+        "detail": "db.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "db.database",
+        "description": "db.database",
+        "isExtraImport": true,
+        "detail": "db.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "db.database",
+        "description": "db.database",
+        "isExtraImport": true,
+        "detail": "db.database",
+        "documentation": {}
+    },
+    {
+        "label": "Produtos",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Produtos",
+        "importPath": "schemas.produto",
+        "description": "schemas.produto",
+        "isExtraImport": true,
+        "detail": "schemas.produto",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "importPath": "schemas.user",
+        "description": "schemas.user",
+        "isExtraImport": true,
+        "detail": "schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routes.produto_routes",
+        "description": "routes.produto_routes",
+        "isExtraImport": true,
+        "detail": "routes.produto_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routes.user_rourtes",
+        "description": "routes.user_rourtes",
+        "isExtraImport": true,
+        "detail": "routes.user_rourtes",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.db.base",
+        "description": "app.db.base",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "app.db.base",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.db.config",
+        "description": "app.db.config",
+        "peekOfCode": "class Settings:\n    PROJECT_NAME:str = \"Luiza Board\"\n    PROJECT_VERSION: str = \"1.0.0\"\n    POSTGRES_USER : str = os.getenv(\"POSTGRES_USER\")\n    POSTGRES_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")\n    POSTGRES_SERVER : str = os.getenv(\"POSTGRES_SERVER\")\n    POSTGRES_PORT : str = os.getenv(\"POSTGRES_PORT\") # default postgres port is 5432\n    POSTGRES_DB : str = os.getenv(\"POSTGRES_DB\")\n    DATABASE_URL = f\"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_SERVER}:{POSTGRES_PORT}/{POSTGRES_DB}\"\nsettings = Settings()",
+        "detail": "app.db.config",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES_USER",
+        "kind": 5,
+        "importPath": "app.db.config",
+        "description": "app.db.config",
+        "peekOfCode": "POSTGRES_USER = os.getenv('POSTGRES_USER')\nprint(POSTGRES_USER)\n#vai no file env e armazena numa variável\nenv_path = Path('.') / '.env'\n#coloca a variável no ambiente py, um tipo de nuvem no proprio py\nload_dotenv(dotenv_path=env_path)\nclass Settings:\n    PROJECT_NAME:str = \"Luiza Board\"\n    PROJECT_VERSION: str = \"1.0.0\"\n    POSTGRES_USER : str = os.getenv(\"POSTGRES_USER\")",
+        "detail": "app.db.config",
+        "documentation": {}
+    },
+    {
+        "label": "env_path",
+        "kind": 5,
+        "importPath": "app.db.config",
+        "description": "app.db.config",
+        "peekOfCode": "env_path = Path('.') / '.env'\n#coloca a variável no ambiente py, um tipo de nuvem no proprio py\nload_dotenv(dotenv_path=env_path)\nclass Settings:\n    PROJECT_NAME:str = \"Luiza Board\"\n    PROJECT_VERSION: str = \"1.0.0\"\n    POSTGRES_USER : str = os.getenv(\"POSTGRES_USER\")\n    POSTGRES_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")\n    POSTGRES_SERVER : str = os.getenv(\"POSTGRES_SERVER\")\n    POSTGRES_PORT : str = os.getenv(\"POSTGRES_PORT\") # default postgres port is 5432",
+        "detail": "app.db.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.db.config",
+        "description": "app.db.config",
+        "peekOfCode": "settings = Settings()\n#2",
+        "detail": "app.db.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.db.database",
+        "description": "app.db.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = settings.DATABASE_URL\nprint(\"Database URL is \",SQLALCHEMY_DATABASE_URL)\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\n# O mecanismo acima cria um objeto adaptado para PostgreSQL, bem como um objeto que estabelecerá um Conexão \nSessionLocal = sessionmaker(autocommit=False,autoflush=False,bind=engine)\n#3",
+        "detail": "app.db.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.db.database",
+        "description": "app.db.database",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\n# O mecanismo acima cria um objeto adaptado para PostgreSQL, bem como um objeto que estabelecerá um Conexão \nSessionLocal = sessionmaker(autocommit=False,autoflush=False,bind=engine)\n#3",
+        "detail": "app.db.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.db.database",
+        "description": "app.db.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False,autoflush=False,bind=engine)\n#3",
+        "detail": "app.db.database",
+        "documentation": {}
+    },
+    {
+        "label": "Produtos",
+        "kind": 6,
+        "importPath": "app.db.models",
+        "description": "app.db.models",
+        "peekOfCode": "class Produtos(Base):\n    __tablename__ = \"produtos\"\n    id = Column('id', Integer, primary_key=True, autoincrement=True)\n    item = Column('item', String, nullable=False)\n    peso = Column('peso', Float)\n    numero_caixas = Column('numero_caixas', Integer)\n    created_at = Column('created_at', DateTime, server_default=func.now())\n    updated_at = Column('updated_at', DateTime, onupdate=func.now())\nclass User(Base):\n     __tablename__ = 'users'",
+        "detail": "app.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.db.models",
+        "description": "app.db.models",
+        "peekOfCode": "class User(Base):\n     __tablename__ = 'users'\n     id = Column('id', Integer, primary_key=True, autoincrement=True)\n     username = Column('username', String, nullable=False, unique=True)\n     password = Column('password', String, nullable=False)\n     cpf = Column('cpf', String, nullable=False)\n     email = Column('email', String, nullable=False)\n     created_at = Column('created_at', DateTime, server_default=func.now())\n     updated_at = Column('updated_at', DateTime, onupdate=func.now())",
+        "detail": "app.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.routes.produto_routes",
+        "description": "app.routes.produto_routes",
+        "peekOfCode": "def get_db():\n    try:\n        db = SessionLocal()\n        #TODO \n        yield db\n    finally:\n        db.close()\n#post usando schema\n#post usando schema\n@router.post(\"/addComSchema\", status_code=status.HTTP_201_CREATED, description='Adicionar produto')",
+        "detail": "app.routes.produto_routes",
+        "documentation": {}
+    },
+    {
+        "label": "add_produto",
+        "kind": 2,
+        "importPath": "app.routes.produto_routes",
+        "description": "app.routes.produto_routes",
+        "peekOfCode": "def add_produto(request:ProdutosOutput, db: Session = Depends(get_db)):\n        # produto_on_db = ProdutosModel(id=request.id, item=request.item, peso=request.peso, numero_caixas=request.numero_caixas)\n        produto_on_db = ProdutosModel(**request.dict())\n        db.add(produto_on_db)\n        db.commit()\n        return Response(status_code=status.HTTP_201_CREATED)\n@router.get(\"/{produto_name}\", description=\"Listar o produto pelo nome\")\ndef get_produtos(produto_name,db: Session = Depends(get_db)):\n    produto_on_db= db.query(ProdutosModel).filter(ProdutosModel.item == produto_name).first()\n    return produto_on_db",
+        "detail": "app.routes.produto_routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_produtos",
+        "kind": 2,
+        "importPath": "app.routes.produto_routes",
+        "description": "app.routes.produto_routes",
+        "peekOfCode": "def get_produtos(produto_name,db: Session = Depends(get_db)):\n    produto_on_db= db.query(ProdutosModel).filter(ProdutosModel.item == produto_name).first()\n    return produto_on_db\n@router.get(\"/produtos/listar\")\nasync def get_tarefas(db: Session = Depends(get_db)):\n    produtos= db.query(ProdutosModel).all()\n    return produtos\n#validação no código\n@router.delete(\"/{id}\", description=\"Deletar o produto pelo id\")\ndef delete_produto(id: int, db: Session = Depends(get_db)):",
+        "detail": "app.routes.produto_routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_produto",
+        "kind": 2,
+        "importPath": "app.routes.produto_routes",
+        "description": "app.routes.produto_routes",
+        "peekOfCode": "def delete_produto(id: int, db: Session = Depends(get_db)):\n    produto_on_db = db.query(ProdutosModel).filter(ProdutosModel.id == id).first()\n    if produto_on_db is None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='Sem produto com este id')\n    db.delete(produto_on_db)\n    db.commit()\n    return f\"Banco with id {id} deletado.\", Response(status_code=status.HTTP_200_OK)\n#TODO\n@router.put('/update/{id}', description='Update product')\ndef update_produto(",
+        "detail": "app.routes.produto_routes",
+        "documentation": {}
+    },
+    {
+        "label": "update_produto",
+        "kind": 2,
+        "importPath": "app.routes.produto_routes",
+        "description": "app.routes.produto_routes",
+        "peekOfCode": "def update_produto(\n    id: int,\n    produto: ProdutosOutput,\n    db: Session = Depends(get_db)\n    ):\n    product_on_db = db.query(ProdutosModel).filter_by(id=id).first()\n    if product_on_db is None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='No product was found with the given id')\n    product_on_db.item = produto.item\n    product_on_db.peso = produto.peso",
+        "detail": "app.routes.produto_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routes.produto_routes",
+        "description": "app.routes.produto_routes",
+        "peekOfCode": "router = APIRouter(prefix=\"/produtos\")   \ndef get_db():\n    try:\n        db = SessionLocal()\n        #TODO \n        yield db\n    finally:\n        db.close()\n#post usando schema\n#post usando schema",
+        "detail": "app.routes.produto_routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.routes.user_rourtes",
+        "description": "app.routes.user_rourtes",
+        "peekOfCode": "def get_db():\n    try:\n        db = SessionLocal()\n        #TODO \n        yield db\n    finally:\n        db.close()\n#post usando schema\n#post usando schema\n@router.post(\"/addComSchema\", status_code=status.HTTP_201_CREATED, description='Adicionar user')",
+        "detail": "app.routes.user_rourtes",
+        "documentation": {}
+    },
+    {
+        "label": "add_user",
+        "kind": 2,
+        "importPath": "app.routes.user_rourtes",
+        "description": "app.routes.user_rourtes",
+        "peekOfCode": "def add_user(request:UserOutput, db: Session = Depends(get_db)):\n        # produto_on_db = ProdutosModel(id=request.id, item=request.item, peso=request.peso, numero_caixas=request.numero_caixas)\n        user_on_db = UserModel(**request.dict())\n        db.add(user_on_db)\n        db.commit()\n        return Response(status_code=status.HTTP_201_CREATED)\n@router.get(\"/{user_name}\", description=\"Listar o user pelo nome\")\ndef get_user(user_name,db: Session = Depends(get_db)):\n    user_on_db= db.query(UserModel).filter(UserModel.item == user_name).first()\n    return user_on_db",
+        "detail": "app.routes.user_rourtes",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "app.routes.user_rourtes",
+        "description": "app.routes.user_rourtes",
+        "peekOfCode": "def get_user(user_name,db: Session = Depends(get_db)):\n    user_on_db= db.query(UserModel).filter(UserModel.item == user_name).first()\n    return user_on_db\n@router.get(\"/user/listar\")\nasync def get_tarefas(db: Session = Depends(get_db)):\n    user= db.query(UserModel).all()\n    return user\n#validação no código\n@router.delete(\"/{id}\", description=\"Deletar o user pelo id\")\ndef delete_user(id: int, db: Session = Depends(get_db)):",
+        "detail": "app.routes.user_rourtes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "app.routes.user_rourtes",
+        "description": "app.routes.user_rourtes",
+        "peekOfCode": "def delete_user(id: int, db: Session = Depends(get_db)):\n    user_on_db = db.query(UserModel).filter(UserModel.id == id).first()\n    if user_on_db is None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='Sem user com este id')\n    db.delete(user_on_db)\n    db.commit()\n    return f\"Banco with id {id} deletado.\", Response(status_code=status.HTTP_200_OK)\n#TODO\n@router.put('/update/{id}', description='Update product')\ndef update_user(",
+        "detail": "app.routes.user_rourtes",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "app.routes.user_rourtes",
+        "description": "app.routes.user_rourtes",
+        "peekOfCode": "def update_user(\n    id: int,\n    user: UserOutput,\n    db: Session = Depends(get_db)\n    ):\n    user_on_db = db.query(UserModel).filter_by(id=id).first()\n    if user_on_db is None:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='No product was found with the given id')\n    user_on_db.id = user.id\n    user_on_db.username = user.username ",
+        "detail": "app.routes.user_rourtes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routes.user_rourtes",
+        "description": "app.routes.user_rourtes",
+        "peekOfCode": "router = APIRouter(prefix=\"/user\")   \ndef get_db():\n    try:\n        db = SessionLocal()\n        #TODO \n        yield db\n    finally:\n        db.close()\n#post usando schema\n#post usando schema",
+        "detail": "app.routes.user_rourtes",
+        "documentation": {}
+    },
+    {
+        "label": "Produtos",
+        "kind": 6,
+        "importPath": "app.schemas.produto",
+        "description": "app.schemas.produto",
+        "peekOfCode": "class Produtos(BaseModel):\n    id: int\n    item: str\n    peso: float\n    numero_caixas: int\n    @validator('peso')\n    def validate_peso(cls, value):\n        if value <= 0:\n            raise ValueError('Peso Invalido')\n        return value",
+        "detail": "app.schemas.produto",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserSchema(BaseModel):\n    id:int\n    username: str\n    password: str\n    cpf: str\n    email: str\n    @validator('username')\n    def validar_username(cls, username):  \n        if len(username) < 4 or len(username) > 20:\n            raise ValueError(\"O username deve ter entre 4 e 15 caracteres.\")",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "validate_cpf",
+        "kind": 2,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "def validate_cpf(cls, cpf):\n        if len(cpf) < 11:\n            raise ValueError('cpf invalid')\n        return cpf",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def health_check():\n    return True\n#TODO\n# app.include_router(category_routes)\napp.include_router(produto_router)\napp.include_router(user_router)\n# app.include_router(poc_routes)\nif __name__ == \"__main__\":\n    import uvicorn\n#                  #nomearquivo#nomeAppMain   ",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI()\n@app.get('/health-check')\ndef health_check():\n    return True\n#TODO\n# app.include_router(category_routes)\napp.include_router(produto_router)\napp.include_router(user_router)\n# app.include_router(poc_routes)\nif __name__ == \"__main__\":",
+        "detail": "app.main",
+        "documentation": {}
+    }
+]
